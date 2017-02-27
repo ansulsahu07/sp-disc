@@ -1,0 +1,68 @@
+[{
+        "ide": "dent"
+        , "speciality": "Dentist"
+    }
+    , {
+        "ide": "ophthal"
+        , "speciality": "Ophthalmologist"
+    }
+    , {
+        "ide": "dermato"
+        , "speciality": "Dermatologist"
+    }
+    , {
+        "ide": "homeo"
+        , "speciality": "Homeopath"
+    }
+    , {
+        "ide": "ayur"
+        , "speciality": "Ayurveda"
+    }
+    , {
+        "ide": "cardio"
+        , "speciality": "Cardiologist"
+    }
+    , {
+        "ide": "gastro"
+        , "speciality": "Gastroenterologist"
+    }
+    , {
+        "ide": "psy"
+        , "speciality": "Psychiatrist"
+    }
+    , {
+        "ide": "ent"
+        , "speciality": "Ear-Nose-Throat (ENT)"
+    }
+    , {
+        "ide": "gyno"
+        , "speciality": "Gynaecologist / Obstetrician"
+    }
+    , {
+        "ide": "neuro"
+        , "speciality": "Neurologist"
+    }
+    , {
+        "ide": "uro"
+        , "speciality": "Urologist"
+    }
+    , {
+        "ide": "gphy"
+        , "speciality": "General Physician"
+    }
+    , {
+        "ide": "pedi"
+        , "speciality": "Pediatrician"
+    }
+    , {
+        "ide": "diab"
+        , "speciality": "Diabetologist"
+    }
+    , {
+        "ide": "ortho"
+        , "speciality": "Orthopedician"
+    }
+    , {
+        "ide": "physio"
+        , "speciality": "Physiotheraphist"
+    }]
